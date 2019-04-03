@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/VsevolodKoloboff/actionBuyerWebApp.svg?branch=master)](https://travis-ci.com/VsevolodKoloboff/actionBuyerWebApp)
+[![Build Status](https://travis-ci.com/VsevolodKoloboff/simpleWebApp.svg?branch=master)](https://travis-ci.com/VsevolodKoloboff/simpleWebApp)
 
 
 Web Simple application. The web project involves the technology: Maven. J2EE: JSP and servlet. JDBC. 
